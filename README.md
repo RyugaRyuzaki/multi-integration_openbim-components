@@ -1,4 +1,6 @@
 # Make sure you have to have mapbox accessToken and ArcGis api key
+# Build workers first :
+  - npm run build-roll
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
